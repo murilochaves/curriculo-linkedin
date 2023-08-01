@@ -1,0 +1,3 @@
+perfil=SEU_LINK_PERFIL
+usuario=SEU_EMAIL_LOGIN
+senha=SUA_SENHA_LOGIN

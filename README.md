@@ -60,6 +60,6 @@ senha=SUA_SENHA_LOGIN
 
 <p align='center'>
     <b>
-        Ou seja, pode ser usado para qualquer finalidade desde que atribuído a autoria!
+        Ou seja, pode ser usado para qualquer finalidade desde que atribuido a autoria!
     </b>
 </p>
